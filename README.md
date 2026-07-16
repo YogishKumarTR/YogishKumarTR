@@ -1,4 +1,4 @@
-# Hey 👋hi💫Yogish KumarTR:
+# Hey 👋hi i'm Yogish KumarTR: 
 🎓 MBA (Business Analytics) Student<br>📊 Passionate about Data Analytics and Business Intelligence<br>💻 Skilled in Power BI, Tableau, SQL, Excel, Python, and Financial Analysis<br>📈 Interested in Data Visualization, Business Analytics, and Dashboard Development<br>🚀 Currently building analytics projects and continuously learning new technologies.
 
 
